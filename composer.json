@@ -1,0 +1,34 @@
+{
+    "name": "ngan220699/package",
+    "description": "package",
+    "keywords": [
+        "package"
+    ],
+    "authors": [
+        {
+            "name": "ngan220699",
+            "email": "ngan220699@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "ngan220699\\package\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
